@@ -1,0 +1,14 @@
+C:\Users\rluka\Documents\ProjetosCurso - Estudos\Jogos\Jogo-da-Velha\bin\Debug\net8.0\Jogo-da-Velha.exe
+C:\Users\rluka\Documents\ProjetosCurso - Estudos\Jogos\Jogo-da-Velha\bin\Debug\net8.0\Jogo-da-Velha.deps.json
+C:\Users\rluka\Documents\ProjetosCurso - Estudos\Jogos\Jogo-da-Velha\bin\Debug\net8.0\Jogo-da-Velha.runtimeconfig.json
+C:\Users\rluka\Documents\ProjetosCurso - Estudos\Jogos\Jogo-da-Velha\bin\Debug\net8.0\Jogo-da-Velha.dll
+C:\Users\rluka\Documents\ProjetosCurso - Estudos\Jogos\Jogo-da-Velha\bin\Debug\net8.0\Jogo-da-Velha.pdb
+C:\Users\rluka\Documents\ProjetosCurso - Estudos\Jogos\Jogo-da-Velha\obj\Debug\net8.0\Jogo-da-Velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rluka\Documents\ProjetosCurso - Estudos\Jogos\Jogo-da-Velha\obj\Debug\net8.0\Jogo-da-Velha.AssemblyInfoInputs.cache
+C:\Users\rluka\Documents\ProjetosCurso - Estudos\Jogos\Jogo-da-Velha\obj\Debug\net8.0\Jogo-da-Velha.AssemblyInfo.cs
+C:\Users\rluka\Documents\ProjetosCurso - Estudos\Jogos\Jogo-da-Velha\obj\Debug\net8.0\Jogo-da-Velha.csproj.CoreCompileInputs.cache
+C:\Users\rluka\Documents\ProjetosCurso - Estudos\Jogos\Jogo-da-Velha\obj\Debug\net8.0\Jogo-da-Velha.dll
+C:\Users\rluka\Documents\ProjetosCurso - Estudos\Jogos\Jogo-da-Velha\obj\Debug\net8.0\refint\Jogo-da-Velha.dll
+C:\Users\rluka\Documents\ProjetosCurso - Estudos\Jogos\Jogo-da-Velha\obj\Debug\net8.0\Jogo-da-Velha.pdb
+C:\Users\rluka\Documents\ProjetosCurso - Estudos\Jogos\Jogo-da-Velha\obj\Debug\net8.0\Jogo-da-Velha.genruntimeconfig.cache
+C:\Users\rluka\Documents\ProjetosCurso - Estudos\Jogos\Jogo-da-Velha\obj\Debug\net8.0\ref\Jogo-da-Velha.dll
